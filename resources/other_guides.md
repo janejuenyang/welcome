@@ -8,4 +8,6 @@ The world is full of kindness. Within the data sphere, there are lots of folks w
 
 ## Deepening Technical Expertise
 
+- A fantastic example of transparency and clarity in career progressions for data professionals from Brooklyn Data Co.: https://brooklyn-data-co.progressionapp.com/teams/data-team/framework
+
 ## Analytics Leadership
