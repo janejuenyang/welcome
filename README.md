@@ -10,4 +10,5 @@ _Resources_
 
 - [Tips on finding a job](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md)
 - [Bookmarks I reference](https://github.com/janejuenyang/welcome/blob/main/resources/references.md)
+- [People I follow](https://github.com/janejuenyang/welcome/blob/main/resources/people_i_follow.md)
 - [Other helpful guides folks have made](https://github.com/janejuenyang/welcome/blob/main/resources/other_guides.md)
