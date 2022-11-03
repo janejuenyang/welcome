@@ -54,6 +54,7 @@ There are many international, national, and regional communities with private ch
 
 * [ClimateAction.tech](https://climateaction.tech/): climate x tech
 * [Data Angels](https://twitter.com/jessica_cherny/status/1292526893317492736): women in data
+* [Data Umbrella](https://www.dataumbrella.org/): underrepresented communities in data
 * [Locally Optimistic](https://locallyoptimistic.com/community/): data
 * [Data Talks Club](https://datatalks.club/): data
 * [R for Data Science](https://www.rfordatasci.com/): R-focused data learning community
