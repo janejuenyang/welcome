@@ -4,6 +4,8 @@ The world is full of kindness. Within the data sphere, there are lots of folks w
 
 ## Starting from Scratch
 
+- Open Source Data Science Masters: https://github.com/datasciencemasters/go
+
 - Detailed outline of transitioning into the data analytics field: https://github.com/katiehuangx/Transition-into-Data-Analytics
 
 ## Deepening Technical Expertise
