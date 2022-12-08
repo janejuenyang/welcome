@@ -8,6 +8,8 @@ The world is full of kindness. Within the data sphere, there are lots of folks w
 
 - Detailed outline of transitioning into the data analytics field: https://github.com/katiehuangx/Transition-into-Data-Analytics
 
+- Openscapes Champions Lesson Series, which is targeted for scientists but has great resources regardless of your background: https://openscapes.github.io/series/
+
 ## Deepening Technical Expertise
 
 - A fantastic example of transparency and clarity in career progressions for data professionals from Brooklyn Data Co.: https://brooklyn-data-co.progressionapp.com/teams/data-team/framework
