@@ -27,14 +27,12 @@ While generic job aggregators like Indeed and LinkedIn have lots of listings, th
 
 The following is a non-exhaustive list of more specialized job boards and email lists in the data and tech fields.
 
-**U.S. public service**
+**Broadly data-oriented**
 
-* [Technology Transformation Services](https://join.tts.gsa.gov/): federal offices that design and deliver a digital government with and for the American public. TTS is part of the General Services Administration (GSA). 
-* [Impact Fellowship through the Federation of American Scientists](https://fas.org/impact-fellowship/opportunities/): selective fellowship program that supports the development and placement of emerging scientific and technical talent within high-impact roles across the federal government
-* [TechCongress](https://www.techcongress.io/): gives talented technologists the opportunity to gain first-­hand experience in federal policymaking and shape the future of tech policy through our fellowships with Members of Congress and Congressional Committees
-* [Partnership for Public Service](https://gogovernment.org/our-fellowships-and-internships/): entry-level opportunities that will give you valuable work experience to start a career in public service
-* [xD Emerging Technology Fellowship](https://www.xd.gov/): with U.S. Census Bureau
-* Your local and state/province/regional governments will likely also have job boards
+Fair warning: these sites do not have the best filtering
+
+* [icrunchdata](https://icrunchdata.com/jobs/)
+* [datajobs](https://datajobs.com/)
 
 **Sector-oriented**
 
@@ -56,6 +54,17 @@ The following is a non-exhaustive list of more specialized job boards and email 
 * [Outreachy - Internships Supporting Diversity in Tech](https://www.outreachy.org/)
 * [People of Color in Tech](https://peopleofcolorintech.com/)
 * [Tech Ladies](https://www.hiretechladies.com/)
+
+**U.S. public service**
+
+Note: these opportunities are not entry-level but are worth keeping in mind for when you are a seasoned data professional.
+
+* [Technology Transformation Services](https://join.tts.gsa.gov/): federal offices that design and deliver a digital government with and for the American public. TTS is part of the General Services Administration (GSA). 
+* [Impact Fellowship through the Federation of American Scientists](https://fas.org/impact-fellowship/opportunities/): selective fellowship program that supports the development and placement of emerging scientific and technical talent within high-impact roles across the federal government
+* [TechCongress](https://www.techcongress.io/): gives talented technologists the opportunity to gain first-­hand experience in federal policymaking and shape the future of tech policy through our fellowships with Members of Congress and Congressional Committees
+* [Partnership for Public Service](https://gogovernment.org/our-fellowships-and-internships/): entry-level opportunities that will give you valuable work experience to start a career in public service
+* [xD Emerging Technology Fellowship](https://www.xd.gov/): with U.S. Census Bureau
+* Your local and state/province/regional governments will likely also have job boards
 
 ## Community
 
