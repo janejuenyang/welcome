@@ -59,6 +59,7 @@ Fair warning: these sites do not have the best filtering
 
 Note: these opportunities are not entry-level but are worth keeping in mind for when you are a seasoned data professional.
 
+* [Tech to Gov / Tech Talent Project](https://www.techtogov.org/): for transitioning from the private tech sector into government service
 * [Technology Transformation Services](https://join.tts.gsa.gov/): federal offices that design and deliver a digital government with and for the American public. TTS is part of the General Services Administration (GSA). 
 * [Impact Fellowship through the Federation of American Scientists](https://fas.org/impact-fellowship/opportunities/): selective fellowship program that supports the development and placement of emerging scientific and technical talent within high-impact roles across the federal government
 * [TechCongress](https://www.techcongress.io/): gives talented technologists the opportunity to gain first-­hand experience in federal policymaking and shape the future of tech policy through our fellowships with Members of Congress and Congressional Committees
