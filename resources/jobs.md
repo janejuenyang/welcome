@@ -50,6 +50,7 @@ Fair warning: these sites do not have the best filtering
 **Diversity-oriented**
 
 * [Diversify Tech](https://www.diversifytech.co/)
+* [Data Umbrella](https://jobs.dataumbrella.org/)
 * [Fairygodboss](https://fairygodboss.com/)
 * [Outreachy - Internships Supporting Diversity in Tech](https://www.outreachy.org/)
 * [People of Color in Tech](https://peopleofcolorintech.com/)
