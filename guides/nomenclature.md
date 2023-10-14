@@ -13,6 +13,10 @@ Prioritize readability and comprehension.
   * `m_` for models
   * `p_` for parameters
 
+* Choose suffixes to show relation between / group things. For instance:
+  * {`d_foo_raw`, `d_foo`}: `d_foo_raw` is the raw dataset that, post cleaning, becomes `d_foo`
+  * {`d_foo`, `s_foo_year`}: `s_foo_year` is an aggregate of the data in `d_foo` by year
+
 * Use verbs to name functions and be straightforward about what the function does. For instance:
   * `calculate_percentiles`
   * `load_acs_data`
