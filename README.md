@@ -3,6 +3,8 @@ starter references for new folks in the data analysis space including:
 
 _Technical guides_
 
+- [Documentation](https://github.com/janejuenyang/welcome/blob/main/guides/documentation.md)
+- [Nomenclature](https://github.com/janejuenyang/welcome/blob/main/guides/nomenclature.md)
 - [SQL style guide](https://github.com/janejuenyang/welcome/blob/main/guides/sql_guide.md)
 - [Visualization guidelines](https://github.com/janejuenyang/welcome/blob/main/guides/visualization_guidelines.md)
 
