@@ -31,6 +31,7 @@ The following is a non-exhaustive list of more specialized job boards and email 
 
 Fair warning: these sites do not have the best filtering
 
+* [wait, what do you do?](https://waitwhatdoyoudo.com/)
 * [icrunchdata](https://icrunchdata.com/jobs/)
 * [datajobs](https://datajobs.com/)
 
