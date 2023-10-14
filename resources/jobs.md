@@ -79,6 +79,7 @@ There are many international, national, and regional communities with private ch
 * [Locally Optimistic](https://locallyoptimistic.com/community/): data
 * [Data Talks Club](https://datatalks.club/): data
 * [PyLadies](https://pyladies.com/): women who use Python
+* [R discoRd](https://discord.gg/6fcReuUHgg): R-focused data learning community
 * [R for Data Science](https://www.rfordatasci.com/): R-focused data learning community
 * [R-Ladies](https://rladies.org/): women who use R
 * [Spatial Community](https://thespatialcommunity.org/): geospatial data community
