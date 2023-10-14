@@ -1,6 +1,6 @@
 # SQL Style Guide
 
-Data practitioners write a lot of SQL. There are not industry-consistent standards for how to style SQL code. Here's what I prefer. Whenever you join a data team, ask what their standards are and if they don't have them, it could be valuable to co-create them for consistency across your code base.
+Data practitioners write a lot of SQL. There are not industry-consistent standards for how to style SQL code. Here's what I prefer. Whenever you join a data team, ask what their standards are and if they don't have them, you won't regret co-creating them for consistency across your code base.
 
 ## Standards
 
