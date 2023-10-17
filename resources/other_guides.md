@@ -17,3 +17,6 @@ The world is full of kindness. Within the data sphere, there are lots of folks w
 ## Continuously Learning
 
 - How to ask good questions: https://jvns.ca/blog/good-questions/
+- Principled data processing (h/t @ethanjantz for sharing)
+  - https://github.com/HRDAG/training-docs/tree/main
+  - https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/
