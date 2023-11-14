@@ -28,6 +28,8 @@ Prioritize readability and comprehension.
   *  `4_train_model`
   *  `5_test_model`
 
+* If you're labeling with dates, use YYYYMMDD format, or YYYY-MM-DD (but be consistent!). I prefer sans hyphen to make filenames shorter. Always use two-digits for month and date or else sorting filenames will be unhelpful.
+
 ## Systems / Products: make it memorable
 
 If you're naming a new system or product, you have an opportunity to anchor how people think -- even *feel* -- about it. Take advantage of that, especially if you are driving data culture change. Some strategies I use:
@@ -48,4 +50,9 @@ While system and products names can benefit from being cutesy, I think it's best
 ## Everything else: make sure it's worth naming
 
 Remembering names takes mental overhead. Not everything should be named. If you are thinking of naming something, first ask yourself what benefit you / your team / your customers get from the name.
+
+## More please
+
+Great tips from others:
+- https://github.com/jennybc/how-to-name-files
 
