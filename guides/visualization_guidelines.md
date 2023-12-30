@@ -18,3 +18,7 @@
 - Use clean backgrounds
 - Use clearly-labeled legends when appropriate
 - In interactive dashboards, make sure folks can't accidentally mis-aggregate by disabling drill-downs when not applicable
+
+# Example style guides
+
+- [Spreadsheet linking to dozens of style guides across sectors](https://docs.google.com/spreadsheets/d/1F1gm5QLXh3USC8ZFx_M9TXYxmD-X5JLDD0oJATRTuIE/edit#gid=1679646668)
