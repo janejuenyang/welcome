@@ -1,10 +1,16 @@
 # People I Follow
 
+- [AI Port](https://www.blog.aiport.tech): global AI news
 - [Allison Horst](https://allisonhorst.com/data-science-art): data science x comics = the perfect pick-me-up
 - [Analytics Engineering Roundup](https://roundup.getdbt.com/): useful articles on analytics engineering and its adjacent ecosystem, curated by the folks at dbt labs
 - [Avi Chawla](https://www.dailydoseofds.com/): a daily 1-2 minute dose of data science tips
 - [Data & Society](https://datasociety.net/): research on the social implications of data-centric technologies & automation
+- [Data Elixir](https://dataelixir.com/): weekly digest of top data science tools, courses, and other resources
 - [Dear Data](https://www.dear-data.com/): for a reminder of the beauty of everyday analog-style dataa
+- [Deeplearning.ai](https://www.deeplearning.ai/): AI learning resources from Andrew Ng
+- [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/): fundamental data science research
+- [ImportAI](https://importai.substack.com/): latest in AI research
+- [Interconnects](https://www.interconnects.ai/): weekly articles blending technical advances and high-level AI news
 - [The Markup](https://themarkup.org/): investigative data journalism on Big Tech
 - [Nathan Yau via Flowing Data](https://flowingdata.com/): emphasis on the process of visualizing data
 - [Randy Au](https://substack.com/profile/6437090-randy-au): data quality and quantitative UX
