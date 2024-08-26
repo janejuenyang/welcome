@@ -4,6 +4,7 @@
 - [AI Port](https://www.blog.aiport.tech): global AI news
 - [AI Snake Oil](https://www.aisnakeoil.com/): AI commentary and research, served with a side of healthy skepticism
 - [Ahead of AI](https://magazine.sebastianraschka.com/): detailed write-ups of AI research
+- [Algorithmic Justice League](https://www.ajl.org/): focused on equitable and accountable AI
 - [Allison Horst](https://allisonhorst.com/data-science-art): data science x comics = the perfect pick-me-up
 - [Analytics Engineering Roundup](https://roundup.getdbt.com/): useful articles on analytics engineering and its adjacent ecosystem, curated by the folks at dbt labs
 - [Avi Chawla via Daily Dose of Data Science](https://www.dailydoseofds.com/): a daily 1-2 minute dose of data science tips
