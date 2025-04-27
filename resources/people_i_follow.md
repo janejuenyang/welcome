@@ -3,6 +3,7 @@
 - [AI Policy Newsletter](https://alisarmustafa.substack.com/): succinct round-up of AI policy around the world
 - [AI Port](https://www.blog.aiport.tech): global AI news
 - [AI Snake Oil](https://www.aisnakeoil.com/): AI commentary and research, served with a side of healthy skepticism
+- [AI Week In Review: Public Sector](https://ai-week-in-review.beehiiv.com/): roundup of news related to use of AI in the public sector
 - [Ahead of AI](https://magazine.sebastianraschka.com/): detailed write-ups of AI research
 - [Algorithmic Justice League](https://www.ajl.org/): focused on equitable and accountable AI
 - [Allison Horst](https://allisonhorst.com/data-science-art): data science x comics = the perfect pick-me-up
@@ -18,6 +19,7 @@
 - [The Markup](https://themarkup.org/): investigative data journalism on Big Tech
 - [Nathan Yau via Flowing Data](https://flowingdata.com/): emphasis on the process of visualizing data
 - [Randy Au via Counting Stuff](https://substack.com/profile/6437090-randy-au): data quality and quantitative UX
+- [The Rundown](https://www.therundown.ai/): compact daily AI news
 - [Vicky Boykis](https://vicki.substack.com/): about the less sexy but just as important aspects of data in tech that the mainstream media isn't covering
 - [We All Count](https://weallcount.com/): increasing equity in data science
 - [Various data communities](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md#community)
