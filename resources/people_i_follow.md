@@ -3,6 +3,7 @@
 - [Ahead of AI](https://magazine.sebastianraschka.com/): detailed write-ups of AI research
 - [AI Policy Newsletter](https://alisarmustafa.substack.com/): succinct round-up of AI policy around the world
 - [AI Port](https://www.blog.aiport.tech): global AI news
+- [AI Safety Newsletter](https://newsletter.safe.ai): developments in AI safety
 - [AI Snake Oil](https://www.aisnakeoil.com/): AI commentary and research, served with a side of healthy skepticism
 - [AI Week In Review: Public Sector](https://ai-week-in-review.beehiiv.com/): roundup of news related to use of AI in the public sector
 - [Algorithmic Justice League](https://www.ajl.org/): focused on equitable and accountable AI
