@@ -19,6 +19,7 @@
 - [ImportAI](https://importai.substack.com/): latest in AI research
 - [Interconnects](https://www.interconnects.ai/): weekly articles blending technical advances and high-level AI news
 - [The Markup](https://themarkup.org/): investigative data journalism on Big Tech
+- [Montreal AI Ethics Institute](https://brief.montrealethics.ai/): tangible and applied technical and policy research in the ethical, safe and inclusive development of AI
 - [Nathan Yau via Flowing Data](https://flowingdata.com/): emphasis on the process of visualizing data
 - [Randy Au via Counting Stuff](https://substack.com/profile/6437090-randy-au): data quality and quantitative UX
 - [The Rundown](https://www.therundown.ai/): compact daily AI news
