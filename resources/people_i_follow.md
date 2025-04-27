@@ -7,6 +7,7 @@
 - [AI Week In Review: Public Sector](https://ai-week-in-review.beehiiv.com/): roundup of news related to use of AI in the public sector
 - [Algorithmic Justice League](https://www.ajl.org/): focused on equitable and accountable AI
 - [Allison Horst](https://allisonhorst.com/data-science-art): data science x comics = the perfect pick-me-up
+- [Alpha Signal](https://alphasignal.ai/): AI news geared towards tech developers
 - [Analytics Engineering Roundup](https://roundup.getdbt.com/): useful articles on analytics engineering and its adjacent ecosystem, curated by the folks at dbt labs
 - [Avi Chawla via Daily Dose of Data Science](https://www.dailydoseofds.com/): a daily 1-2 minute dose of data science tips
 - [Data & Society](https://datasociety.net/): research on the social implications of data-centric technologies & automation
