@@ -67,6 +67,7 @@ Note: these opportunities are not entry-level but are worth keeping in mind for 
 * [Impact Fellowship through the Federation of American Scientists](https://fas.org/impact-fellowship/opportunities/): selective fellowship program that supports the development and placement of emerging scientific and technical talent within high-impact roles across the federal government
 * [TechCongress](https://www.techcongress.io/): gives talented technologists the opportunity to gain first-­hand experience in federal policymaking and shape the future of tech policy through our fellowships with Members of Congress and Congressional Committees
 * [Partnership for Public Service](https://gogovernment.org/our-fellowships-and-internships/): entry-level opportunities that will give you valuable work experience to start a career in public service
+* [Public Solutions Jobs](https://www.publicsolutionsjobs.org/): curated list of research, civic tech, data analytics, and policy positions at universities, nonprofits, and state and local governments
 * [xD Emerging Technology Fellowship](https://www.xd.gov/): with U.S. Census Bureau
 * Your local and state/province/regional governments will likely also have job boards
 
