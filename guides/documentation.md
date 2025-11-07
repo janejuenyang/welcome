@@ -51,7 +51,7 @@ In no particular order, here's how I approach documentation:
 * **Have a system**
   * Be tools-agnostic; your system should adapt to any suite of software, whether Microsoft, Google, or indie.
   * Use tables of contents, header formatting, lists, and tables to organize information.
-  * Include purpose, date, attendees, discussion and decision notes, and follow-ups in meeting notes. If you're using a tool without global search, take running notes in the same document to make it easier to search for things later one.
+  * Include purpose, date, attendees, discussion and decision notes, and follow-ups in meeting notes. If you're using a tool without global search, take running notes in the same document to make it easier to search for things later on.
   * Cross-link everywhere! Add links to relevant past notes, documents, websites, etc.
   * Keep the Desktop and Downloads folder clear. Move things out of the Desktop at the end of the day. Tidy up the Downloads folder at least weekly.
   * Have an organized file directory that fits how your brain thinks. Use shortcuts strategically. For instance, I often have shared folders by project, including a running notes document that's shared across the project team. I also have a personal "Running Notes" folder with shortcuts to each of the running notes docs.
