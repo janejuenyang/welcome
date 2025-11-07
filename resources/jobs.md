@@ -61,13 +61,16 @@ Fair warning: these sites do not have the best filtering
 
 Note: these opportunities are not entry-level but are worth keeping in mind for when you are a seasoned data professional.
 
-* [#PublicSectorJobBoard](https://publicsectorjobboard.substack.com/): tech and innovation jobs in government from across the US
-* [Technology Transformation Services](https://join.tts.gsa.gov/): federal offices that design and deliver a digital government with and for the American public. TTS is part of the General Services Administration (GSA) and includes 18F (the federal government's digital services team) and [U.S. Digital Corps](https://digitalcorps.gsa.gov/), a two-year fellowship for early-career technologists.
-* [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/): 1-2 year fellowship for mid-to-senior career technologists, designers, entrepreneurs, and strategists who are paired with a federal agency as an entrepreneur-in-residence. 
+* [Civic Match](https://www.workforamerica.org/civicmatch): tackling the government staffing crisis in communities nationwide
+* [Horizon Fellowship](https://horizonpublicservice.org/programs/become-a-fellow/): places fully-funded fellows at host organizations to help tackle policy challenges related to artificial intelligence, biotechnology, and other emerging technologies.
 * [Impact Fellowship through the Federation of American Scientists](https://fas.org/impact-fellowship/opportunities/): selective fellowship program that supports the development and placement of emerging scientific and technical talent within high-impact roles across the federal government
-* [TechCongress](https://www.techcongress.io/): gives talented technologists the opportunity to gain first-­hand experience in federal policymaking and shape the future of tech policy through our fellowships with Members of Congress and Congressional Committees
 * [Partnership for Public Service](https://gogovernment.org/our-fellowships-and-internships/): entry-level opportunities that will give you valuable work experience to start a career in public service
+* [#PublicSectorJobBoard](https://publicsectorjobboard.substack.com/): tech and innovation jobs in government from across the US
+* [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/): 1-2 year fellowship for mid-to-senior career technologists, designers, entrepreneurs, and strategists who are paired with a federal agency as an entrepreneur-in-residence. 
 * [Public Solutions Jobs](https://www.publicsolutionsjobs.org/): curated list of research, civic tech, data analytics, and policy positions at universities, nonprofits, and state and local governments
+* [TechCongress](https://www.techcongress.io/): gives talented technologists the opportunity to gain first-­hand experience in federal policymaking and shape the future of tech policy through our fellowships with Members of Congress and Congressional Committees
+* [Technology Transformation Services](https://join.tts.gsa.gov/): federal offices that design and deliver a digital government with and for the American public. TTS is part of the General Services Administration (GSA) and includes 18F (the federal government's digital services team) and [U.S. Digital Corps](https://digitalcorps.gsa.gov/), a two-year fellowship for early-career technologists.
+* [U.S. Digital Corps](https://digitalcorps.gsa.gov/): two‑year fellowship for early‑career technologists in the U.S. federal government
 * [xD Emerging Technology Fellowship](https://www.xd.gov/): with U.S. Census Bureau
 * Your local and state/province/regional governments will likely also have job boards
 
