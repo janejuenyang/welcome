@@ -62,6 +62,7 @@ Fair warning: these sites do not have the best filtering
 Note: these opportunities are not entry-level but are worth keeping in mind for when you are a seasoned data professional.
 
 * [Civic Match](https://www.workforamerica.org/civicmatch): tackling the government staffing crisis in communities nationwide
+* [Government Works Weekly](https://governmentworks.substack.com/): job and internship opportunities, upcoming events, and a timely selection of interesting news/research/podcasts/videos about how government works
 * [Horizon Fellowship](https://horizonpublicservice.org/programs/become-a-fellow/): places fully-funded fellows at host organizations to help tackle policy challenges related to artificial intelligence, biotechnology, and other emerging technologies.
 * [Impact Fellowship through the Federation of American Scientists](https://fas.org/impact-fellowship/opportunities/): selective fellowship program that supports the development and placement of emerging scientific and technical talent within high-impact roles across the federal government
 * [Partnership for Public Service](https://gogovernment.org/our-fellowships-and-internships/): entry-level opportunities that will give you valuable work experience to start a career in public service
