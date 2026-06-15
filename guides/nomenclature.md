@@ -55,4 +55,5 @@ Remembering names takes mental overhead. Not everything should be named. If you 
 
 Great tips from others:
 - https://github.com/jennybc/how-to-name-files
+- https://www.conventionalcommits.org/en/v1.0.0/
 
