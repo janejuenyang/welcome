@@ -1,7 +1,7 @@
 # People I Follow
 
 - [Ahead of AI](https://magazine.sebastianraschka.com/): detailed write-ups of AI research
-- [AI as Normal Technology]([https://www.aisnakeoil.com/](https://www.normaltech.ai/): analyzing AI as transformative but normal technology, not superintelligence.
+- [AI as Normal Technology](https://www.normaltech.ai/): analyzing AI as transformative but normal technology, not superintelligence.
 - [AI Policy Newsletter](https://alisarmustafa.substack.com/): succinct round-up of AI policy around the world
 - [AI Port](https://www.blog.aiport.tech): global AI news
 - [AI Safety Newsletter](https://newsletter.safe.ai): developments in AI safety
