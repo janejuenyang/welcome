@@ -11,6 +11,7 @@
 - [Alpha Signal](https://alphasignal.ai/): AI news geared towards tech developers
 - [Analytics Engineering Roundup](https://roundup.getdbt.com/): useful articles on analytics engineering and its adjacent ecosystem, curated by the folks at dbt labs
 - [Avi Chawla via Daily Dose of Data Science](https://www.dailydoseofds.com/): a daily 1-2 minute dose of data science tips
+- [Center for Rural AI](https://www.ruralai.org/)
 - [Data & Society](https://datasociety.net/): research on the social implications of data-centric technologies & automation
 - [Data Elixir](https://dataelixir.com/): weekly digest of top data science tools, courses, and other resources
 - [Dear Data](https://www.dear-data.com/): for a reminder of the beauty of everyday analog-style dataa
@@ -22,7 +23,9 @@
 - [Montreal AI Ethics Institute](https://brief.montrealethics.ai/): tangible and applied technical and policy research in the ethical, safe and inclusive development of AI
 - [Nathan Yau via Flowing Data](https://flowingdata.com/): emphasis on the process of visualizing data
 - [Randy Au via Counting Stuff](https://substack.com/profile/6437090-randy-au): data quality and quantitative UX
+- [Reboot Democracy](https://rebootdemocracy.ai)
 - [The Rundown](https://www.therundown.ai/): compact daily AI news
+- [Partnerships on AI](https://partnershiponai.org)
 - [Vicky Boykis](https://vicki.substack.com/): about the less sexy but just as important aspects of data in tech that the mainstream media isn't covering
 - [We All Count](https://weallcount.com/): increasing equity in data science
 - [Various data communities](https://github.com/janejuenyang/welcome/blob/main/resources/jobs.md#community)
