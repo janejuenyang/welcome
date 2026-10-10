@@ -1,6 +1,7 @@
 # People I Follow
 
 - [Ahead of AI](https://magazine.sebastianraschka.com/): detailed write-ups of AI research
+- [AI Frontiers](https://ai-frontiers.org): expert dialogue and debate on the impacts of artificial intelligence
 - [AI as Normal Technology](https://www.normaltech.ai/): analyzing AI as transformative but normal technology, not superintelligence.
 - [AI Policy Newsletter](https://alisarmustafa.substack.com/): succinct round-up of AI policy around the world
 - [AI Port](https://www.blog.aiport.tech): global AI news
@@ -11,7 +12,7 @@
 - [Alpha Signal](https://alphasignal.ai/): AI news geared towards tech developers
 - [Analytics Engineering Roundup](https://roundup.getdbt.com/): useful articles on analytics engineering and its adjacent ecosystem, curated by the folks at dbt labs
 - [Avi Chawla via Daily Dose of Data Science](https://www.dailydoseofds.com/): a daily 1-2 minute dose of data science tips
-- [Center for Rural AI](https://www.ruralai.org/)
+- [Center for Rural AI](https://www.ruralai.org/): focused ontransforming rural communities from passive recipients to active leaders in the AI economy through education, infrastructure, and innovation
 - [Data & Society](https://datasociety.net/): research on the social implications of data-centric technologies & automation
 - [Data Elixir](https://dataelixir.com/): weekly digest of top data science tools, courses, and other resources
 - [Dear Data](https://www.dear-data.com/): for a reminder of the beauty of everyday analog-style dataa
@@ -23,7 +24,7 @@
 - [Montreal AI Ethics Institute](https://brief.montrealethics.ai/): tangible and applied technical and policy research in the ethical, safe and inclusive development of AI
 - [Nathan Yau via Flowing Data](https://flowingdata.com/): emphasis on the process of visualizing data
 - [Randy Au via Counting Stuff](https://substack.com/profile/6437090-randy-au): data quality and quantitative UX
-- [Reboot Democracy](https://rebootdemocracy.ai)
+- [Reboot Democracy](https://rebootdemocracy.ai): explores how artificial intelligence—if designed and governed wisely—can help strengthen our democratic institutions rather than weaken them.
 - [The Rundown](https://www.therundown.ai/): compact daily AI news
 - [Partnerships on AI](https://partnershiponai.org)
 - [Vicky Boykis](https://vicki.substack.com/): about the less sexy but just as important aspects of data in tech that the mainstream media isn't covering
