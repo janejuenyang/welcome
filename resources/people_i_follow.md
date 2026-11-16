@@ -11,18 +11,22 @@
 - [Allison Horst](https://allisonhorst.com/data-science-art): data science x comics = the perfect pick-me-up
 - [Alpha Signal](https://alphasignal.ai/): AI news geared towards tech developers
 - [Analytics Engineering Roundup](https://roundup.getdbt.com/): useful articles on analytics engineering and its adjacent ecosystem, curated by the folks at dbt labs
+- [Artificial Analysis](https://artificialanalysis.ai/): benchmarks for generative AI models
 - [Avi Chawla via Daily Dose of Data Science](https://www.dailydoseofds.com/): a daily 1-2 minute dose of data science tips
 - [Center for Rural AI](https://www.ruralai.org/): focused ontransforming rural communities from passive recipients to active leaders in the AI economy through education, infrastructure, and innovation
 - [Data & Society](https://datasociety.net/): research on the social implications of data-centric technologies & automation
 - [Data Elixir](https://dataelixir.com/): weekly digest of top data science tools, courses, and other resources
 - [Dear Data](https://www.dear-data.com/): for a reminder of the beauty of everyday analog-style dataa
 - [Deeplearning.ai](https://www.deeplearning.ai/): AI learning resources from Andrew Ng
+- [Emerging Technology Observatory](https://eto.tech/): tracking state AI governance
 - [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/): fundamental data science research
+- [Humans on AI](https://www.paradigm3.org/news/): analysis on evidence for and against near-term transformative AI and track developments in AI economics, capabilities, safety, and politics in real-time
 - [ImportAI](https://importai.substack.com/): latest in AI research
 - [Interconnects](https://www.interconnects.ai/): weekly articles blending technical advances and high-level AI news
 - [The Markup](https://themarkup.org/): investigative data journalism on Big Tech
 - [Montreal AI Ethics Institute](https://brief.montrealethics.ai/): tangible and applied technical and policy research in the ethical, safe and inclusive development of AI
 - [Nathan Yau via Flowing Data](https://flowingdata.com/): emphasis on the process of visualizing data
+- [One Useful Thing](https://www.oneusefulthing.org/): by Ethan Mollick
 - [Randy Au via Counting Stuff](https://substack.com/profile/6437090-randy-au): data quality and quantitative UX
 - [Reboot Democracy](https://rebootdemocracy.ai): explores how artificial intelligence—if designed and governed wisely—can help strengthen our democratic institutions rather than weaken them.
 - [The Rundown](https://www.therundown.ai/): compact daily AI news
